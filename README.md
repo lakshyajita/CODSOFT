@@ -1,8 +1,9 @@
-# CODSOFT Internship – Python GUI Projects
+# CODSOFT Internship – GUI calculator
 
-This repository contains a collection of Python GUI applications developed as part of the **CodSoft Internship Program**. These beginner-friendly projects are built using Tkinter and include:
+**A simple GUI calculator built with Python Tkinter for basic arithmetic operations (+, –, ×, ÷)**
 
-- 🧮 **Calculator**
-- 🔐 **Password Generator**
-- ✅ **To-Do List**
-
+💻 Tech: Python, Tkinter
+🔹 Features:
+-  Interactive buttons
+-  Clear and backspace
+-  Error handling
