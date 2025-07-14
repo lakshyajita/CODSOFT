@@ -1,6 +1,7 @@
-# CODSOFT Internship – GUI calculator
+# codsoft-task1 
+# GUI calculator
 
-**A simple GUI calculator built with Python Tkinter for basic arithmetic operations (+, –, ×, ÷)**
+A simple GUI calculator built with Python Tkinter for basic arithmetic operations (+, –, ×, ÷)
 
 💻 Tech: Python, Tkinter
 
